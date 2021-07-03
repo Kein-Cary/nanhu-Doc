@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# # Introduction
+# Introduction
 
-## ## Hardware of Nanhu 
+Brief introduction on Nanhu.
 

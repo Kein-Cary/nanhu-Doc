@@ -2,6 +2,7 @@
 sort: 6
 ---
 
-# # Q&A
+# Q&A
 
-any questions or suggestions? Please post them here
+Any questions or suggestions? Please post them here
+

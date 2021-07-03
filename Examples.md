@@ -2,8 +2,7 @@
 sort: 5
 ---
 
-# # Examples
+# Examples
 
-##  Issues and fixes
+##  Issues and Fixes or Tips
 
-## tips of  coding or calculation
