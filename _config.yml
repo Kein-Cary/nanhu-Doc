@@ -1,0 +1,15 @@
+title: nanhu
+lang: en
+description: loggs and helps
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+
