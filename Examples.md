@@ -1,1 +1,9 @@
-Following list some issue or useful tips for coding or calculation.
+---
+sort: 5
+---
+
+# # Examples
+
+##  Issues and fixes
+
+## tips of  coding or calculation
