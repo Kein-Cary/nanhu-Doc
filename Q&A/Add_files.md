@@ -9,7 +9,7 @@ title: add files to the Nanhu-Doc groups
 3. Your files must be in .md format, and here is a simple style:
    ```tip  
    \-\-\-   
-   sort: n       &ensp &ensp # n is the order of your file  
+   sort: n     # n is the order of your file  
    title：your_file_name   
    \-\-\-  
 
