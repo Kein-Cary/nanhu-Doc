@@ -1,8 +1,8 @@
 ---
 sort: 1
+title: Anaconda
 --- 
 
-# Anaconda
 
 ## References
 References on using anaconda/conda:
