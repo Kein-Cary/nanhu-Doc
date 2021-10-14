@@ -1,8 +1,7 @@
 ---
 sort: 2
+title: Jupyter
 --- 
-
-# Jupyter
 
 Jupyter Notebook/Jupyter Lab has been installed in the `base` environment of anaconda. One can simply run jupyter as usual and use SSH port forwarding via `ssh -L`. The following is an example.
 
