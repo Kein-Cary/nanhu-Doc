@@ -10,6 +10,7 @@ title: add files to the Nanhu-Doc groups
    ```tip
    ---
    sort: n  # n is the order of your file
+   
    title：your_file_name 
    ---
    
