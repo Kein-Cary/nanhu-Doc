@@ -13,7 +13,7 @@ title: add files to the Nanhu-Doc groups
    title：your_file_name   
    \-\-\-  
 
-   (anything you want type in)  
+   (anything you want to type in)  
    
    ```
 4. .md file follow the editing rules of the MarkDown document. It is easy to become familiar with the corresponding grammar and complete your document editing through some simple editing. [**Here**](https://www.markdownguide.org/tools/) are some tools can help you. 
