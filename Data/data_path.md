@@ -1,6 +1,6 @@
 ---
 sort: 1
-title: Jing's Simulation/9001
+title: Simulation 9001
 ---
 
 One can record paths in nanhu that may be useful for both others and himself.
