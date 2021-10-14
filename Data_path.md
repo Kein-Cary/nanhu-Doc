@@ -2,7 +2,7 @@
 sort: 2
 --- 
 
-# Data_Paths
+# DataPaths
 
 One can record paths in nanhu that may be useful for both others and himself.
 
