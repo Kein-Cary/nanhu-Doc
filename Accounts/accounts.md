@@ -1,7 +1,6 @@
 ---
 sort: 2
+title: Accounts
 ---
 
-# Accounts
-
-How to get your accounts on Nanhu, and log in it
+How to get your accounts on Nanhu, and log in
