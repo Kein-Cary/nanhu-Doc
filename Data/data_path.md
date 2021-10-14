@@ -1,3 +1,8 @@
+---
+sort: 1
+title: Job
+---
+
 One can record paths in nanhu that may be useful for both others and himself.
 
 ## Jing's Simulation/9001
