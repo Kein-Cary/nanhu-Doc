@@ -13,4 +13,5 @@ Brief introduction on Nanhu.
 
 ## Disk
 /home: 30TB HDD.
+
 /data1, /data2, /data3: 3x 1.6TB SSD, prepared for fast I/O jobs and will only be available to users under reasonable request.
