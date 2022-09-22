@@ -1,7 +1,6 @@
 ---
 sort: 1
 ---
-Brief introduction on Nanhu.
 
 # Hardware Information
 
