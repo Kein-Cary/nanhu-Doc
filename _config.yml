@@ -2,7 +2,10 @@ title: nanhu
 lang: en
 description: Nanhu User Documentation
 
-remote_theme: rundocs/jekyll-rtd-theme@master
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
 
 readme_index:
   with_frontmatter: true
