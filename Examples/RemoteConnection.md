@@ -1,6 +1,6 @@
 ---
 sort: 1
-title: add files to the Nanhu-Doc groups
+title: 跳过交大VPN登陆南湖
 ---
 
 目的：实现可以不依赖交大VPN使用南湖服务器（但是第一次仍然需要借助交大VPN）
