@@ -2,7 +2,6 @@
 sort: 3
 ---
 
-# Data 
+# Data
 
-List of data folders in Nanhu. You may need to apply for permission to use them. 
-
+This section lists data directories on Nanhu. You may need to request permission before using them.

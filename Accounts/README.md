@@ -4,6 +4,6 @@ sort: 2
 
 # Accounts
 
-How to get your accounts on Nanhu, and log in.
+Learn how to request a Nanhu account and log in.
 
 {% include list.liquid %}

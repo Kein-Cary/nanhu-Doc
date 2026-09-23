@@ -5,12 +5,14 @@ sort: 1
 # Hardware Information
 
 ## CPU
-2x Intel Xeon Gold 6238R, 56 cores and 112 threads in total.
+
+2 × Intel Xeon Gold 6238R processors, with 56 cores and 112 threads in total.
 
 ## Memory
-504 GB (+8GB Swap) 
+
+504 GB RAM and 8 GB swap.
 
 ## Disk
-/home: 30TB HDD.
 
-/data1, /data2, /data3: 3x 1.6TB SSD, prepared for fast I/O jobs and will only be available to users under reasonable request.
+- `/home`: 30 TB HDD storage.
+- `/data1`, `/data2`, and `/data3`: three 1.6 TB SSDs for I/O-intensive jobs. Access is available upon reasonable request.

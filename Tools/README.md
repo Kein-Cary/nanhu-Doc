@@ -4,5 +4,4 @@ sort: 6
 
 # Tools
 
-Tools have been installed on Nanhu, and here we just give a brief introduction on installation.
-
+This section introduces tools installed on Nanhu and explains how to configure and use them.

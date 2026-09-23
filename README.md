@@ -1,7 +1,7 @@
-# nanhu-Doc
+# Nanhu Documentation
 
-Welcome to Nanhu's documentation! Please visit: https://kein-cary.github.io/nanhu-Doc/
+Welcome to the Nanhu user documentation. Read the published documentation at
+[kein-cary.github.io/nanhu-Doc](https://kein-cary.github.io/nanhu-Doc/).
 
-How to add [**files**](https://kein-cary.github.io/nanhu-Doc/Q&A/Add_files.html)
-
-Some tips for python, Linux or special calculation can be found in My notes (https://www.yuque.com/g/xiaokaichen/kb/lebw0k/collaborator/join?token=WgdIankjVrYC4rBy&source=doc_collaborator# 《Tips of pyton & linux & Windows》)
+- [How to add a page](https://kein-cary.github.io/nanhu-Doc/Q&A/Add_files.html)
+- [Python, Linux, and Windows tips](https://www.yuque.com/g/xiaokaichen/kb/lebw0k) (Yuque access required)

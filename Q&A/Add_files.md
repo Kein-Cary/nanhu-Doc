@@ -1,23 +1,18 @@
 ---
 sort: 1
-title: add files to the Nanhu-Doc groups
+title: Add pages to Nanhu Documentation
 ---
 
-1. Confirm in which folder your files should be placed, and just open that folder on the webpage
-2. Add your files just following previous files. Each file has an order in the file list of their parent folder.
-  Forexample, if there is a file order by 5, your file order should be 6.
-3. Your files must be in .md format, and here is a simple style:
-   ```tip  
-   \-\-\-   
-   sort: n     # n is the order of your file  
-   title：your_file_name   
-   \-\-\-  
+1. Choose the folder in which the new page belongs.
+2. Create a Markdown file (`.md`) in that folder. Use the next available `sort` number to position it after the existing pages. For example, if the highest value is `5`, use `6`.
+3. Add YAML front matter at the top of the file:
 
-   (anything you want to type in)  
-   
+   ```yaml
+   ---
+   sort: 6
+   title: Your page title
+   ---
    ```
-4. .md file follow the editing rules of the MarkDown document. It is easy to become familiar with the corresponding grammar and complete your document editing through some simple editing. [**Here**](https://www.markdownguide.org/tools/) are some tools can help you. 
 
-   
-   
-   
+4. Write the page content below the front matter using Markdown. See the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) for syntax examples.
+5. Preview the page and check its links before submitting your change.
