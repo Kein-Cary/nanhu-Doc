@@ -4,19 +4,17 @@ parent: Connection
 nav_order: 1
 ---
 
-## English
-
-### Purpose
+## Purpose
 
 Connect to the Nanhu server without using the SJTU network or VPN. The initial setup still requires access to the SJTU network or VPN.
 
 > Before proceeding, confirm that the server administrator permits remote tunnels and follow Nanhu's access and data-security policies. You must use the same GitHub or Microsoft account to authenticate on both the server and your local computer.
 
-### How it works
+## How it works
 
 Nanhu normally accepts connections only from the SJTU network or VPN. VS Code Tunnel works around this restriction by establishing an outbound connection from Nanhu to the VS Code relay service, through which your local VS Code client connects to the server.
 
-### Steps
+## Steps
 
 1. Install and open [Visual Studio Code](https://code.visualstudio.com/), then install Microsoft's official **Remote Explorer** and **Remote - Tunnels** extensions.
 2. Connect to the SJTU VPN, then use SSH in VS Code to log in to Nanhu for the initial setup. Replace `<username>` with your Nanhu username:
@@ -51,19 +49,17 @@ Nanhu normally accepts connections only from the SJTU network or VPN. VS Code Tu
 
 For more information, including removal instructions, see the [official VS Code Remote Tunnels documentation](https://code.visualstudio.com/docs/remote/tunnels).
 
-## 中文
-
-### 目的
+## 目的
 
 在不连接交大 VPN 的情况下访问南湖服务器。首次配置仍需连接交大网络或交大 VPN。
 
 > 请先确认服务器管理员允许使用远程隧道，并遵守南湖的访问与数据安全规定。隧道需要使用同一个 GitHub 或 Microsoft 账户在服务器端和客户端进行身份验证。
 
-### 原理
+## 原理
 
 通常，南湖服务器仅允许从交大网络或交大 VPN 访问。VS Code Tunnel 由南湖服务器主动连接到 VS Code 的中转服务，客户端再通过该服务连接南湖。
 
-### 步骤
+## 步骤
 
 1. 安装并打开 [Visual Studio Code](https://code.visualstudio.com/)，然后安装微软官方的 **Remote Explorer** 和 **Remote - Tunnels** 扩展。
 2. 连接交大 VPN，然后在 VS Code 中通过 SSH 首次登录南湖。请将 `<用户名>` 替换为你的南湖用户名：
