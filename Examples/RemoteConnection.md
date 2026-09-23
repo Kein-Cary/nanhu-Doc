@@ -15,6 +15,6 @@ curl -Lk 'https://code.visualstudio.com/sha/download?build=stable&os=cli-alpine-
 tar -xf vscode_cli.tar.gz
 ```
 最后检查./code –version是否有显示版本号
-5.	运行 Tunnel 变成后台服务：./code tunnel service install（只要保持在服务器后台运行即可，可以关闭当前远程连接）
-6.	重新打开vscode检查在远程/Tunnels是否显示nanhu正在运行，如果是则可以在不依赖交大网络和VPN情况下点击图中的箭头即可连接南湖服务器
+4.	运行 Tunnel 变成后台服务：./code tunnel service install（只要保持在服务器后台运行即可，可以关闭当前远程连接）
+5.	重新打开vscode检查在远程/Tunnels是否显示nanhu正在运行，如果是则可以在不依赖交大网络和VPN情况下点击图中的箭头即可连接南湖服务器
 
