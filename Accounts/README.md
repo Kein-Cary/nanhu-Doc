@@ -1,5 +1,6 @@
 ---
-sort: 2
+title: Accounts
+nav_order: 2
 ---
 
 # Accounts

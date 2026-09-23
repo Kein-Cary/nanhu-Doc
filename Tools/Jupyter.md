@@ -1,6 +1,7 @@
 ---
-sort: 2
 title: Jupyter
+parent: Tools
+nav_order: 2
 ---
 
 

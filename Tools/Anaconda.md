@@ -1,6 +1,7 @@
 ---
-sort: 1
 title: Anaconda
+parent: Tools
+nav_order: 1
 ---
 
 

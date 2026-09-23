@@ -1,6 +1,7 @@
 ---
-sort: 1
 title: Simulation 9001
+parent: Data
+nav_order: 1
 ---
 
 Record useful paths on Nanhu here so that other users can find shared data.

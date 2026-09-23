@@ -1,6 +1,7 @@
 ---
-sort: 1
 title: 不使用交大 VPN 登录南湖
+parent: Examples
+nav_order: 1
 ---
 
 ## 目的
@@ -43,5 +44,7 @@ title: 不使用交大 VPN 登录南湖
    按终端提示完成身份验证。服务在服务器后台运行后，可以关闭当前远程连接。
 
 5. 重新打开 VS Code，在 **Remote Explorer > Tunnels** 中确认 `nanhu` 正在运行。之后即可在不连接交大网络或 VPN 的情况下连接南湖服务器。
+
+   ![VS Code Remote Explorer 中的 nanhu Tunnel 示例]({{ site.baseurl }}/_static/vscode_example.png)
 
 更多信息及卸载方法请参阅 [VS Code Remote Tunnels 官方文档](https://code.visualstudio.com/docs/remote/tunnels)。

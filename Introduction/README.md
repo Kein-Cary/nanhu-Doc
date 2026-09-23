@@ -1,5 +1,6 @@
 ---
-sort: 1
+title: Hardware Information
+nav_order: 1
 ---
 
 # Hardware Information

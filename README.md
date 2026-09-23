@@ -1,3 +1,8 @@
+---
+title: Nanhu Documentation
+nav_order: 0
+---
+
 # Nanhu Documentation
 
 Welcome to the Nanhu user documentation. Read the published documentation at

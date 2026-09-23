@@ -1,5 +1,6 @@
 ---
-sort: 7
+title: Documents
+nav_order: 7
 ---
 
 # Documents
