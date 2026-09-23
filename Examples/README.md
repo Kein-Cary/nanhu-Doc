@@ -1,8 +1,8 @@
 ---
-title: Examples
+title: Connection
 nav_order: 5
 ---
 
-# Examples
+# Connection
 
-This section contains troubleshooting examples and tips that complement the Q&A. You can also share code or calculations for specific problems here.
+This section explains how to connect to Nanhu, including remote access without the SJTU VPN.
